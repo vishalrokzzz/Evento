@@ -5,7 +5,7 @@ export type EventItem={
     date:string,
     time:string,
     slug:string,
-}
+};
 
 export const events:EventItem[]=[
     {

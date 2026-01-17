@@ -1,7 +1,6 @@
 import React from 'react';
 import ExploreBtn from "@/components/ExploreBtn";
 import Image from "next/image";
-import {images} from "next/dist/build/webpack/config/blocks/images";
 import EventCard from '@/components/EventCard';
 import {events} from "@/lib/constants";
 const Page = () => {
